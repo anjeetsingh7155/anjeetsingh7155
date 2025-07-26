@@ -1,5 +1,5 @@
 <h1 align="center">
-  [cite_start]Hi, I'm Anjeet Singh [cite: 2]
+Hi, I'm Anjeet Singh
 </h1>
 
 <h3 align="center">
@@ -34,12 +34,12 @@
 
 | Category          | Skills                                                                                             |
 |-------------------|----------------------------------------------------------------------------------------------------|
-| **Languages** | [cite_start]Java, JavaScript [cite: 8]                                                                                 |
-| **Frameworks** | [cite_start]React.js, Express.js, Next.js, Tailwind CSS, Axios, Redux, Zod [cite: 12]                               |
-| **Databases** | [cite_start]MySQL, MongoDB [cite: 13]                                                                                    |
-| **Web Concepts** | [cite_start]CSS, SASS, DOM Manipulation, AJAX, Async JS, REST APIs, Mongoose, CRUD Operations [cite: 10]                 |
-| **Core Concepts** | [cite_start]Data Structures and Algorithm, OOPS, DBMS [cite: 9]                                                        |
-| **Dev Tools** | [cite_start]VSCode, Postman, Chrome Dev Tools, Git & Version Control, Github [cite: 10, 11]                             |
+| **Languages** | Java, JavaScript                                                                                  |
+| **Frameworks** | React.js, Express.js, Next.js, Tailwind CSS, Axios, Redux, Zod                                |
+| **Databases** | MySQL, MongoDB                                                                                    |
+| **Web Concepts** | CSS, SASS, DOM Manipulation, AJAX, Async JS, REST APIs, Mongoose, CRUD Operations                  |
+| **Core Concepts** | Data Structures and Algorithm, OOPS, DBMS                                      |
+| **Dev Tools** | VSCode, Postman, Chrome Dev Tools, Git & Version Control, Github                             |
 
 ---
 
@@ -60,18 +60,18 @@
 <table>
   <tr>
     <td width="50%">
-      [cite_start]<h4 align="center"><a href="https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project">Electricity Billing System</a> [cite: 22]</h4>
-      [cite_start]<p>Developed a Java-based online electricity billing system to automate manual processes[cite: 24]. [cite_start]The frontend was built with Java Swing, and it used MySQL for the database with a JDBC connection[cite: 25, 26].</p>
+      <h4 align="center"><a href="https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project">Electricity Billing System</a></h4>
+      <p>Developed a Java-based online electricity billing system to automate manual processes.The frontend was built with Java Swing, and it used MySQL for the database with a JDBC connection.</p>
     </td>
     <td width="50%">
-      [cite_start]<h4 align="center"><a href="https://github.com/anjeetsingh7155/task-manager">Task Manager</a> [cite: 27]</h4>
-      [cite_start]<p>A backend system for managing daily tasks using JavaScript[cite: 28]. [cite_start]It uses Node.js and Express.js for server-side logic and EJS with Tailwind CSS for rendering[cite: 30].</p>
+      <h4 align="center"><a href="https://github.com/anjeetsingh7155/task-manager">Task Manager</a></h4>
+      <p>A backend system for managing daily tasks using JavaScript.It uses Node.js and Express.js for server-side logic and EJS with Tailwind CSS for rendering.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      [cite_start]<h4 align="center"><a href="https://github.com/anjeetsingh7155/tic-tac-toe">Tic Tac Toe Game</a> [cite: 32]</h4>
-      [cite_start]<p>An interactive web-based Tic Tac Toe game built to reinforce core JavaScript concepts like DOM manipulation and event handling, featuring a responsive UI in HTML/CSS[cite: 32, 33].</p>
+      <h4 align="center"><a href="https://github.com/anjeetsingh7155/tic-tac-toe">Tic Tac Toe Game</a></h4>
+      <p>An interactive web-based Tic Tac Toe game built to reinforce core JavaScript concepts like DOM manipulation and event handling, featuring a responsive UI in HTML/CSS.</p>
     </td>
     <td width="50%">
       </td>
@@ -82,8 +82,8 @@
 
 ### 🏆 Achievements
 
-- [cite_start]**3rd Position in Project Competition** [cite: 15][cite_start]: Secured third place in the Branch and Semester Level Project Competition in May 2025[cite: 15, 16]. [cite_start]Collaborated with a team of 4 through the complete development lifecycle[cite: 17].
-- [cite_start]**10th International Conference Shaastrarth 2025** [cite: 19][cite_start]: Selected to present research at this prestigious international conference held at Rungta College of Engineering and Technology[cite: 19].
+- **3rd Position in Project Competition**: Secured third place in the Branch and Semester Level Project Competition in May 2025.Collaborated with a team of 4 through the complete development lifecycle.
+- **10th International Conference Shaastrarth 2025** : Selected to present research at this prestigious international conference held at Rungta College of Engineering and Technology.
 
 ---
 
