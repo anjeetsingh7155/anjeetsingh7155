@@ -19,7 +19,7 @@ Hi, I'm Anjeet Singh
 ### 👨‍💻 About Me
 
 <p>
-  [cite_start]I am a dedicated Full Stack Developer with a strong grasp of backend technologies like Node.js, Express.js, and REST APIs, combined with frontend skills in React.js and Tailwind CSS[cite: 5]. [cite_start]I am seeking to contribute to scalable and secure web applications while continuously growing my technical and problem-solving abilities[cite: 6].
+  I am a dedicated Full Stack Developer with a strong grasp of backend technologies like Node.js, Express.js, and REST APIs, combined with frontend skills in React.js and Tailwind CSS.I am seeking to contribute to scalable and secure web applications while continuously growing my technical and problem-solving abilities.
 </p>
 
 ---
