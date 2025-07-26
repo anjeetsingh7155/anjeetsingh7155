@@ -64,8 +64,8 @@
     <p>Developed a Java-based online electricity billing system to automate manual processes.The frontend was built with Java Swing, and it used MySQL for the database with a JDBC connection.</p>
     </td>
     <td width="50%">
-      <h4 align="center"><a href="https://github.com/anjeetsingh7155/task-manager">Task Manager</a></h4>
-     <p>A backend system for managing daily tasks using JavaScript.It uses Node.js and Express.js for server-side logic and EJS with Tailwind CSS for rendering.</p>
+      <h4 align="center"><a href="https://github.com/anjeetsingh7155/Backend_Task_Manager">Backend_Task_Manager</a></h4>
+     <p>A secure backend API for a To-Do application built with Node.js, Express, and MongoDB, featuring JWT authentication and Zod validation.</p>
     </td>
   </tr>
   <tr>
