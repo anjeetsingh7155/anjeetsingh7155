@@ -1,92 +1,69 @@
-<h1 align="center">
-  Hi, I'm Anjeet Singh
-</h1>
+<h1 align="center">Hi 👋, I'm Anjeet Singh</h1>
+<h3 align="center">A Passionate Developer from India</h3>
 
-<h3 align="center">
-  Full Stack Developer
-</h3>
+---
 
-<br>
+## 🚀 About Me
+
+🎓 I’m a computer science student and a self-motivated developer  
+💼 I build projects in **Java, Node.js, MongoDB, MySQL** and modern **web technologies**  
+🎯 Currently learning **Full Stack Web Development**  
+🔭 I’m working on multiple personal projects and open-source contributions  
+📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/anjeetsingh7155)** | **[GitHub](https://github.com/anjeetsingh7155)**  
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats (Dynamic)
 
 <p align="center">
-  <a href="mailto:anjeetsingh7155@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anjeet-singh-7972272a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/anjeet singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anjeetsingh7155&show_icons=true&theme=radical" alt="Anjeet Singh's GitHub Stats" />
 </p>
-
----
-
-### 👨‍💻 About Me
-
-<p>
-  I am a dedicated Full Stack Developer with a strong grasp of backend technologies like Node.js, Express.js, and REST APIs, combined with frontend skills in React.js and Tailwind CSS. I am seeking to contribute to scalable and secure web applications while continuously growing my technical and problem-solving abilities.
-</p>
-
----
-
-### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,react,nextjs,redux,nodejs,express,mongodb,mysql,tailwind,sass,git,vscode,postman&perline=7" />
-  </a>
-</p>
-
-| Category          | Skills                                                                                             |
-|-------------------|----------------------------------------------------------------------------------------------------|
-| **Languages** | Java, JavaScript                                                                         |
-| **Frameworks** | React.js, Express.js, Next.js, Tailwind CSS, Axios, Redux, Zod                           |
-| **Databases** | MySQL, MongoDB                                                                                |
-| **Web Concepts** | CSS, SASS, DOM Manipulation, AJAX, Async JS, REST APIs, Mongoose, CRUD Operations          |
-| **Core Concepts** | Data Structures and Algorithm, OOPS, DBMS                                               |
-| **Dev Tools** | VSCode, Postman, Chrome Dev Tools, Git & Version Control, Github                          |
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjeetsingh7155&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeetsingh7155&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook"/>
-</p>
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=anjeetsingh7155&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeetsingh7155&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 Key Projects
+## 📂 Repositories Preview
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project">Electricity Billing System</a></h4>
-    <p>Developed a Java-based online electricity billing system to automate manual processes.The frontend was built with Java Swing, and it used MySQL for the database with a JDBC connection.</p>
-    </td>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/anjeetsingh7155/Backend_Task_Manager">Backend_Task_Manager</a></h4>
-     <p>A secure backend API for a To-Do application built with Node.js, Express, and MongoDB, featuring JWT authentication and Zod validation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center"><a href="https://github.com/anjeetsingh7155/tic-tac-toe">Tic Tac Toe Game</a></h4>
-     <p>An interactive web-based Tic Tac Toe game built to reinforce core JavaScript concepts like DOM manipulation and event handling , featuring a responsive UI in HTML/CSS.</p>
-    </td>
-    <td width="50%">
-      </td>
-  </tr>
-</table>
+| Project Name | Tech Stack | Description |
+|--------------|------------|-------------|
+| [Backend Task Manager](https://github.com/anjeetsingh7155/Backend_Task_Manager) | Node.js, Express, MongoDB | REST API for task management with JWT auth |
+| [Electricity Billing System](https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project) | Java, Swing, MySQL | Admin/customer dashboard with billing features |
+| [Tic Tac Toe](https://github.com/anjeetsingh7155/tic-tac-toe) | HTML, CSS, JS | Simple two-player browser-based game |
 
 ---
 
-### 🏆 Achievements
+## 🧠 Currently Learning
 
-- **3rd Position in Project Competition**: Secured third place in the Branch and Semester Level Project Competition. Collaborated with a team of 4 through the complete development lifecycle.
-- **10th International Conference Shaastrarth 2025**: Selected to present research at this prestigious international conference held at Rungta College of Engineering and Technology.
+- React.js  
+- TypeScript  
+- System Design Basics  
 
 ---
 
-<h4 align="center">
-  Let's connect and build something amazing together!
-</h4>
+## 📫 Contact Me
+
+- LinkedIn: [linkedin.com/in/anjeetsingh7155](https://www.linkedin.com/in/anjeetsingh7155)  
+- GitHub: [github.com/anjeetsingh7155](https://github.com/anjeetsingh7155)  
+- Email: *<add your email here>*  
+
+---
+
+*Last updated: <!-- dynamic timestamp -->*
+
