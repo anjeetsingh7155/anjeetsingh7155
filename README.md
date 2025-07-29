@@ -1,15 +1,29 @@
 <h1 align="center">Hi 👋, I'm Anjeet Singh</h1>
 <h3 align="center">Full Stack Developer | Java, Node.js, React.js | MongoDB | MySQL</h3>
 
+<p align="center">
+  <a href="https://github.com/anjeetsingh7155" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anjeet-singh-7972272a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anjeetsingh7155@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/anjeet_singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 🎓 B.Tech student in Information Technology at Rungta College, Bhilai (2022–2026)  
-💡 Enthusiastic Full Stack Developer with strong skills in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and frontend with **React.js**, **Tailwind CSS**  
-🎯 Passionate about building scalable, secure, and user-friendly applications  
-📚 Constant learner, exploring new technologies and sharpening problem-solving with **DSA in Java**  
-🌱 Currently learning **Next.js**, **TypeScript**, and **System Design**
+💡 Full Stack Developer focused on backend using **Node.js**, **Express.js**, **MongoDB**, and frontend using **React.js**, **Tailwind CSS**  
+💬 Passionate about building scalable, secure, and responsive web apps  
+🚀 Constantly growing with **DSA in Java**, **Next.js**, and **System Design**
 
 ---
 
@@ -52,22 +66,22 @@
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [Electricity Billing System](https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project) | Java, Swing, JDBC, MySQL | Desktop billing system with customer/admin panels and MySQL backend |
-| [Backend Task Manager](https://github.com/anjeetsingh7155/Backend_Task_Manager) | Node.js, Express.js, MongoDB, EJS, Tailwind | RESTful backend task manager with UI rendering and authentication |
-| [Tic Tac Toe](https://github.com/anjeetsingh7155/tic-tac-toe) | HTML, CSS, JavaScript | Interactive 2-player browser-based Tic Tac Toe game |
+| [Electricity Billing System](https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project) | Java, Swing, JDBC, MySQL | Desktop billing system with customer/admin panels |
+| [Backend Task Manager](https://github.com/anjeetsingh7155/Backend_Task_Manager) | Node.js, Express.js, MongoDB, Tailwind, EJS | RESTful backend with UI and user authentication |
+| [Tic Tac Toe](https://github.com/anjeetsingh7155/tic-tac-toe) | HTML, CSS, JavaScript | Web-based 2-player Tic Tac Toe game |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 **3rd Place** – Semester Level Project Competition (May 2025)
-- 🧠 **Presented Research** – 10th International Conference "Shaastrarth 2025" on AI & Emerging Tech  
-- ✅ **Certified in**:
-  - Advanced DSA with Java – *Coding Spoon*
+- 🥉 **3rd Place** – Semester Level Project Competition (2025)
+- 🧠 **Presented Research** – *Shaastrarth 2025 Conference* on AI, Cloud, and Data Science  
+- ✅ **Certifications**:
+  - DSA with Java – *Coding Spoon*
   - Oracle SQL – *Great Learning Academy*
   - MongoDB for SQL Experts – *MongoDB University*
 
@@ -76,11 +90,10 @@
 ## 📫 Contact Me
 
 - 📧 anjeetsingh7155@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anjeet-singh-7972272a2/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjeet-singh-7972272a2/)  
 - 💻 [GitHub](https://github.com/anjeetsingh7155)  
-- 📊 [LeetCode](https://leetcode.com/u/anjeet_singh/)
+- 🧠 [LeetCode](https://leetcode.com/u/anjeet_singh/)
 
 ---
 
-<p align="center">✨ Always open to collaborations and contributions!</p>
-
+<p align="center">✨ Let's build something amazing together!</p>
