@@ -62,7 +62,7 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [Electricity Billing System](https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project) | Java, Swing, JDBC, MySQL | Desktop billing system with customer/admin panels |
-| [Backend Task Manager](https://github.com/anjeetsingh7155/Backend_Task_Manager) | Node.js, Express.js, MongoDB, Tailwind, EJS | RESTful backend with UI and user authentication |
+| [Backend Task Manager](https://github.com/anjeetsingh7155/Backend-Task-Manager) | Node.js, Express.js, MongoDB, Tailwind, EJS | RESTful backend with UI and user authentication |
 | [Tic Tac Toe](https://github.com/anjeetsingh7155/tic-tac-toe) | HTML, CSS, JavaScript | Web-based 2-player Tic Tac Toe game |
 
 ---
