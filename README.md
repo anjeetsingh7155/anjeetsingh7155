@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Anjeet Singh</h1>
-<h3 align="center">Full Stack Developer | Java, Node.js, React.js | MongoDB | MySQL</h3>
+<h1 align="center">
+  Hi 👋 I'm Anjeet Singh
+</h1>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Designer;UI%2FUX+Designer;Open+Source+Contributor" 
+      alt="Typing SVG" 
+    />
+  </a>
+</h3>
 
 <p align="center">
   <a href="https://github.com/anjeetsingh7155" target="_blank">
@@ -8,10 +18,10 @@
   <a href="https://www.linkedin.com/in/anjeet-singh-7972272a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anjeetsingh7155@gmail.com" target="_blank">
+  <a href="mailto:anjeetsingh7155@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/anjeet_singh/" target="_blank">
+  <a href="https://leetcode.com/u/anjeet_singh/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -20,71 +30,98 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech student in Information Technology at Rungta College, Bhilai (2022–2026)  
-💡 Full Stack Developer focused on backend using **Node.js**, **Express.js**, **MongoDB**, and frontend using **React.js**, **Tailwind CSS** 💬 Passionate about building scalable, secure, and responsive web apps  
-🚀 Constantly growing with **DSA in Java**, **Next.js**, and **System Design**
+🎓 B.Tech – Information Technology (2022–2026)  
+💻 Passionate Full Stack Developer with strong backend fundamentals  
+🔐 Experienced in JWT Authentication & Secure REST APIs  
+🎨 Interested in UI/UX Design & Clean Interface Systems  
+🚀 Open Source Learner & Contributor  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nextjs,redux,nodejs,express,mongodb,mysql,tailwind,sass,git,vscode,postman&perline=7" />
-</p>
+### 🚀 Backend
+Node.js • Express.js • REST APIs • JWT • Mongoose • Zod  
 
-| **Category** | **Skills** |
-|------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Languages** | Java, JavaScript                                                                                                    |
-| **Frameworks** | React.js, Express.js, Next.js, Tailwind CSS, Axios, Redux, Zod                                                        |
-| **Databases** | MySQL, MongoDB                                                                                                      |
-| **Web Concepts** | CSS, SASS, DOM Manipulation, AJAX, Async JS, REST APIs, Mongoose, CRUD Operations                                     |
-| **Core Concepts**| Data Structures and Algorithms, OOPS, DBMS                                                                          |
-| **Dev Tools** | VSCode, Postman, Chrome DevTools, Git & Version Control, GitHub                                                       |
+### 🎨 Frontend
+React.js • Next.js • Redux • Tailwind CSS • Axios  
 
----
+### 🗄 Databases
+MongoDB • MySQL  
 
-## 🔥 GitHub Stats
+### 🧠 Core Concepts
+DSA (Java) • OOPS • DBMS • System Design Basics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjeetsingh7155&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Anjeet's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeetsingh7155&layout=compact&theme=tokyonight&hide=c&langs_count=6" alt="Anjeet's Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anjeetsingh7155&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🧰 Tools
+Git • GitHub • Postman • VS Code • Chrome DevTools  
 
 ---
 
-## 📂 Featured Projects
+## 🔥 Featured Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [Electricity Billing System](https://github.com/anjeetsingh7155/Electricity-Billing-System-Java-Project) | Java, Swing, JDBC, MySQL | Desktop billing system with customer/admin panels |
-| [Backend Task Manager](https://github.com/anjeetsingh7155/Backend-Task-Manager) | Node.js, Express.js, MongoDB, Tailwind, EJS | RESTful backend with UI and user authentication |
-| [Course Selling Application](https://github.com/anjeetsingh7155/courseSellingApp.git) | React.js , Express.js ,Node..js , MongoDB | Course Selling Appication With CRUD operation using all the TeckStack |
+### 🧠 Second Brain (MERN + TypeScript)
+- Modular backend architecture  
+- Secure JWT authentication  
+- RESTful API design  
+- Responsive frontend components  
+
+🔗 https://github.com/anjeetsingh7155/secondBrain  
+
+---
+
+### 🎓 Course Selling Platform
+- Multi-role system (Admin/User)  
+- Secure protected routes  
+- Backend structured routing  
+- CRUD operations  
+
+🔗 https://github.com/anjeetsingh7155/courseSellingApp  
+
+---
+
+### ⚡ Backend Task Manager
+- Express middleware  
+- MongoDB integration  
+- Auth system  
+- Clean API handling  
+
+🔗 https://github.com/anjeetsingh7155/Backend-Task-Manager  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjeetsingh7155&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeetsingh7155&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anjeetsingh7155&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 **3rd Place** – Semester Level Project Competition (2025)
-- 🧠 **Presented Research** – *Shaastrarth 2025 Conference* on AI, Cloud, and Data Science  
-- ✅ **Certifications**:
-  - DSA with Java – *Coding Spoon*
-  - Oracle SQL – *Great Learning Academy*
-  - MongoDB for SQL Experts – *MongoDB University*
+🥉 3rd Place – Semester Level Project Competition (2025)  
+🧠 Research Presentation – Shaastrarth 2025  
+📜 Certifications – JavaScript, SQL, MongoDB  
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
-- 📧 anjeetsingh7155@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anjeet-singh-7972272a2/)  
-- 💻 [GitHub](https://github.com/anjeetsingh7155)  
-- 🧠 [LeetCode](https://leetcode.com/u/anjeet_singh/)
+📧 anjeetsingh7155@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/anjeet-singh-7972272a2/  
+💻 GitHub: https://github.com/anjeetsingh7155  
+🧠 LeetCode: https://leetcode.com/u/anjeet_singh/  
 
 ---
 
-<p align="center">✨ Let's build something amazing together!</p>
+<p align="center">
+  ⚡ Designing Experiences. Building Systems. Contributing to Open Source.
+</p>
