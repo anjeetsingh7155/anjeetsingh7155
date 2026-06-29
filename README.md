@@ -64,6 +64,8 @@ Rungta College of Engineering & Technology, Bhilai (2022–2026)
 
 🔗 **Repository:**  
 https://github.com/anjeetsingh7155/secondBrain  
+🔗 **Deployment:**  
+https://second-brain-mauve-eight.vercel.app/  
 
 ---
 
