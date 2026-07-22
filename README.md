@@ -27,8 +27,9 @@
 
 # 👨‍💻 Professional Summary
 
-Full Stack Developer specializing in scalable MERN applications with strong backend expertise in REST API architecture, authentication systems, and structured routing.  
-Focused on clean code, modular design, and performance-oriented development.
+Full Stack Developer (MERN) with two deployed production applications covering React.js, Node.js, Express.js, MongoDB, REST API design,
+JWT authentication, and WebSocket integration. Placed 3rd in a branch-level project competition as part of a 4-member team and presented
+a research paper at Shaastrarth 2025, an international conference on AI/ML and sustainability.
 
 ---
 
@@ -44,7 +45,7 @@ Rungta College of Engineering & Technology, Bhilai (2022–2026)
 ### 🔥 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,postman,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nextjs,nodejs,express,mongodb,mysql,postgresql,prisma,tailwind,git,github,postman,vercel,vscode,npm&perline=7" />
 </p>
 
 ---
@@ -52,34 +53,37 @@ Rungta College of Engineering & Technology, Bhilai (2022–2026)
 # 📂 Featured Projects
 
 ---
+## 🧠 Second Brain
+> Full-Stack Knowledge Management Platform (MERN + TypeScript)
 
-## 🧠 Second Brain  
-> Scalable Knowledge Management Platform (MERN + TypeScript)
-
-🔹 Designed modular REST API architecture  
-🔹 Implemented JWT-based authentication  
-🔹 Structured backend with middleware & controllers  
-🔹 Built responsive UI with React + Tailwind  
-🔹 Planned AI-based summarization integration  
+🔹 Developed a secure multi-user knowledge management application with JWT authentication  
+🔹 Built 10+ RESTful API endpoints for content management and user-specific data isolation  
+🔹 Created a responsive UI using React.js, TypeScript, and Tailwind CSS  
+🔹 Implemented centralized error handling, input validation, and scalable backend architecture  
+🔹 Deployed the application on Vercel with an automated CI/CD workflow  
 
 🔗 **Repository:**  
-https://github.com/anjeetsingh7155/secondBrain  
-🔗 **Deployment:**  
-https://second-brain-mauve-eight.vercel.app/  
+https://github.com/anjeetsingh7155/secondBrain_Frontend.git
+
+🌐 **Live Demo:**  
+https://second-brain-mauve-eight.vercel.app/
 
 ---
 
-## 🎓 Course Selling Platform  
-> Multi-role Secure Course Marketplace
+## 📚 Study Space
+> Real-Time Collaborative Study Platform (MERN + TypeScript + WebSockets)
 
-🔹 Role-based authentication (Admin/User)  
-🔹 Protected CRUD operations  
-🔹 Secure REST API routing  
-🔹 Structured MongoDB schema design  
+🔹 Developed a real-time study room platform with authenticated group discussions  
+🔹 Integrated WebSockets (`ws`) for instant messaging with persistent chat history  
+🔹 Secured REST APIs and WebSocket connections using JWT and bcryptjs authentication  
+🔹 Built reusable React components with TypeScript and Tailwind CSS for a responsive UI  
+🔹 Deployed frontend and backend on Vercel and Render for seamless real-time communication  
 
 🔗 **Repository:**  
-https://github.com/anjeetsingh7155/courseSellingApp  
+https://github.com/anjeetsingh7155/ChatAppBackend.git
 
+🌐 **Live Demo:**  
+https://study-space-phi.vercel.app/
 ---
 
 # 🏆 Achievements
@@ -103,14 +107,25 @@ https://github.com/anjeetsingh7155/courseSellingApp
 # 📊 GitHub Performance Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjeetsingh7155&theme=github_dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anjeetsingh7155&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeetsingh7155&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjeetsingh7155&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjeetsingh7155&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=anjeetsingh7155&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjeetsingh7155&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anjeetsingh7155&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anjeetsingh7155&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 # 📫 Contact
