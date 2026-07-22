@@ -84,6 +84,7 @@ https://github.com/anjeetsingh7155/ChatAppBackend.git
 
 🌐 **Live Demo:**  
 https://study-space-phi.vercel.app/
+
 ---
 
 # 🏆 Achievements
@@ -98,34 +99,18 @@ https://study-space-phi.vercel.app/
 
 # 📜 Certifications
 
-📘 JavaScript Bootcamp – LetsUpgrade  
-📊 Oracle SQL – Great Learning Academy  
-🍃 MongoDB for SQL Experts – MongoDB  
-
+- 📘 **JavaScript Bootcamp** — LetsUpgrade
+- 📊 **Oracle SQL** — Great Learning Academy
+- 🍃 **MongoDB for SQL Experts** — MongoDB
+- 🤖 **Build with AI Bootcamp** — Google for Developers
 ---
 
-# 📊 GitHub Performance Overview
+# 📊 GitHub Performance Overview 
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anjeetsingh7155&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeetsingh7155&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjeetsingh7155&theme=github_dark" /> </p> 
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjeetsingh7155&theme=github_dark" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjeetsingh7155&theme=github_dark" /> </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjeetsingh7155&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjeetsingh7155&theme=github-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjeetsingh7155&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjeetsingh7155&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 ---
 
 # 📫 Contact
